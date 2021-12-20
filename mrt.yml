@@ -6,6 +6,6 @@ category: Device/FPGA
 requires: []
 description: FPGA 
 datasheet: https://www.xilinx.com/support/documentation/data_sheets/ds160.pdf
-mfg: xilinx
-mfg_pn: XC6SLX9-L1TQG144C
+mfr: xilinx
+mfr_pn: XC6SLX9-L1TQG144C
 digikey_pn: XC6SLX9-L1TQG144C-ND
